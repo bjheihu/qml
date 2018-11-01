@@ -16,9 +16,9 @@ import (
 	"time"
 
 	. "gopkg.in/check.v1"
-	"gopkg.in/qml.v1"
-	"gopkg.in/qml.v1/cpptest"
-	"gopkg.in/qml.v1/gl/2.0"
+	"github.com/jamalsa/qml"
+	"github.com/jamalsa/qml/cpptest"
+	"github.com/jamalsa/qml/gl/2.0"
 	"path/filepath"
 )
 

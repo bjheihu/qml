@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gopkg.in/qml.v1"
+	"github.com/jamalsa/qml"
 	"image"
 	"image/png"
 	"os"

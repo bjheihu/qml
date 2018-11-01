@@ -9,7 +9,7 @@ import "C"
 import (
 	"errors"
 	"fmt"
-	"gopkg.in/qml.v1/gl/glbase"
+	"github.com/jamalsa/qml/gl/glbase"
 	"image"
 	"image/color"
 	"io"

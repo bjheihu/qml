@@ -7,7 +7,7 @@ import "C"
 import (
 	"bytes"
 	"encoding/binary"
-	"gopkg.in/qml.v1/cdata"
+	"github.com/jamalsa/qml/cdata"
 	"reflect"
 	"unsafe"
 )
